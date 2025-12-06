@@ -479,7 +479,7 @@ id,step,similarity,x,y,node_size,target_id,target_x,target_y,target_node_size,ty
 117,4,Water,597.5,368.45,5,0,400,400,4000,Agua,Water,Cresta,Shell,#00E3EA,0.5329413414001465
 118,4,Water,598.89,378.92,5,0,400,400,4000,Agua,Water,Viscus,Foam,#00E3EA,0.31068289279937744
 119,4,Water,599.72,389.44,5,0,400,400,4000,Agua,Water,Géiser,Geyser,#00E3EA,0.33327165246009827
-0,0,Water,400.0,400.0,4000,0,400,400,4000,,,,,#00E3EA,0
+0,0,Water,400.0,400.0,4000,0,400,400,4000,,,,,#CACACA,0.0
 1,0,Water,600.0,400.0,5,0,400,400,4000,Tierra,Ground,Sílex,Flint,#CACACA,0
 2,0,Water,599.72,410.56,5,0,400,400,4000,Tierra,Ground,Granito,Granite,#CACACA,0
 3,0,Water,598.89,421.08,5,0,400,400,4000,Tierra,Ground,Cuarzo,Quartz,#CACACA,0
